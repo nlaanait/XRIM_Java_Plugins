@@ -8,6 +8,12 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+/** Modified on June 2012 by N.Laanait, nlaanait@gmail.com
+ * + Added real-time fitting of the line profile with a Gaussian + linear background.
+ * + Modified display of the dialog box for continuos display of the optimized parameters.
+ *
+ */
+
 /**
  * This plugin continuously plots the profile along a line scan or a rectangle.
  * The profile is updated if the image changes, thus it can be used to monitor
