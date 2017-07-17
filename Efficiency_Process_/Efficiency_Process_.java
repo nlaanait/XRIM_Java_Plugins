@@ -5,6 +5,10 @@ import java.awt.*;
 import ij.measure.ResultsTable;
 import ij.plugin.filter.*;
 
+/** Written by N. Laanait, June 2012, nlaanait@gmail.com
+ *
+ *
+ */
 public class Efficiency_Process_ implements PlugInFilter {
 	ImagePlus imp;
         
