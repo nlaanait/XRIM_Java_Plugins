@@ -5,6 +5,11 @@ import java.awt.*;
 import ij.measure.ResultsTable;
 import ij.plugin.filter.*;
 
+ /** Written by N. Laanait, March 2012, nlaanait@gmail.com
+ *
+ *
+ */
+
 public class Dark_Process_ implements PlugInFilter {
 	ImagePlus imp;
         
