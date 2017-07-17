@@ -1,3 +1,8 @@
+/** Written by N. Laanait, March?? 2013, nlaanait@gmail.com
+ *
+ *
+ */
+
 //package ij.plugin.filter;
 import  ij.*;
 import  ij.gui.DialogListener;
