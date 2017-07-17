@@ -1,4 +1,9 @@
- //package ij.plugin.filter;
+/** Written by N. Laanait, October 2014, nlaanait@gmail.com
+ *
+ *
+ */ 
+
+//package ij.plugin.filter;
 import  ij.*;
 import  ij.gui.DialogListener;
 import  ij.gui.GenericDialog;
